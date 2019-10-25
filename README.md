@@ -1,2 +1,3 @@
-# grav-plugin-cal-dav-import
-The plugin imports external CalDAV events as separate pages into grav cms
+# GRAV CMS plugin Cal-Dav-import
+The plugin imports events in .ical format from external CalDAV resources (for example nextcloud calendars).
+
